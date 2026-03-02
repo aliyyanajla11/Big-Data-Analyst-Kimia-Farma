@@ -20,6 +20,7 @@ End-to-end Big Data Analytics project analyzing Kimia Farma business performance
 - Email: aliyyanajla11@gmail.com
 - GitHub: [@yourusername](https://github.com/aliyyanajla11)
 
-# This project is part of Rakamin Academy's Project-Based Internship program.
+# License
+This project is part of Rakamin Academy's Project-Based Internship program.
 #PastiBerImpact | #ProjectBasedInternship | #RakaminAcademy
    
